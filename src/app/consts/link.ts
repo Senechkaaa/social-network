@@ -1,0 +1,5 @@
+export const AUTH_ROUTE = '/auth'
+export const SETTINGS_ROUTE = '/settings'
+export const POSTS_ROUTE = '/posts'
+export const CHATS_ROUTE = '/chats'
+export const FRIENDS_ROUTE = '/friends'
