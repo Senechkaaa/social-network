@@ -1,1 +1,1 @@
-export {ChatsPage} from "@pages/chats/ChatsPage"
+export {ChatsPage} from "./ui/ChatsPage"

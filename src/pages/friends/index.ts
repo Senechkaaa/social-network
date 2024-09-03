@@ -1,1 +1,1 @@
-export {FriendsPage} from "@pages/friends/FriendsPage"
+export {FriendsPage} from "./ui/FriendsPage"

@@ -1,0 +1,41 @@
+.button {
+    padding: 12px 20px;
+    font-size: 18px;
+}
+
+.button {
+
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+    font-weight: 700;
+
+    
+    &.small {
+      font-size: 12px;
+    }
+    &.medium {
+      font-size: 16px;
+    }
+    &.large {
+      font-size: 20px;
+    }
+  
+    &.medium-rd {
+      border-radius: 12px;
+    }
+    &.large-rd {
+      border-radius: 0;
+    }
+  
+    &.padding-small {
+      padding: 4px;
+    }
+    &.padding-medium {
+      padding: 8px;
+    }
+    &.padding-large {
+      padding: 12px;
+    }
+  }
+  

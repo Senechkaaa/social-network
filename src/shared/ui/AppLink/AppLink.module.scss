@@ -1,0 +1,25 @@
+.item_link {
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+
+    &.active_item_link {
+        .item_title {
+            color: #8c8ca5;
+            font-weight: 500;
+            font-size: 18px;
+        }
+    }
+
+    .item_title {
+        font-weight: 400;
+        margin-left: 8px;
+        font-size: 17px;
+    }
+
+    .item_icon {
+        color: #746fb7;
+        font-size: 16px;
+    }
+}
